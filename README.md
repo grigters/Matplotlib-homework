@@ -1,2 +1,2 @@
 # Matplotlib homework
-Use Python Matplotlib to create various charts for analyzes.
+Use Python Matplotlib and Jupyter Notebook to create various charts for analyzes.
